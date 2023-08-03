@@ -12,6 +12,9 @@
 .product-details {
   padding: 24px 32px;
   width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .product {
